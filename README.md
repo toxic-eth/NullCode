@@ -1,2 +1,2 @@
 # NullCode
-NullCode Site
+Minimal Code. Maximum Impact
