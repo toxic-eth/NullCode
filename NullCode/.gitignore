@@ -1,1 +1,10 @@
+# WordPress core / uploads / config
+wp-content/plugins/
+wp-content/uploads/
+wp-config.php
+.htaccess
+
+# Node / SASS
+node_modules/
+wp-content/themes/nullcode-theme/assets/css/
 
